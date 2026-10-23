@@ -86,7 +86,14 @@ Agile · Scrum · BDD/Gherkin · Shift-Left Testing · Risk-Based Testing · Req
 
 ---
 
+
 ## 📂 Featured Projects
+
+### 🔎 [Real-World QA & Product Observations](https://github.com/mrsllil/qa-product-observations)
+
+My personal collection of QA observations based on everyday use of real applications.
+
+I document functional issues and usability improvements, focusing on real user scenarios, potential risks, and practical solutions.
 
 ### 🧪 [QA Documentation & Test Cases](https://github.com/mrsllil/Test-Cases)
 
@@ -99,6 +106,7 @@ A hands-on learning project exploring web test automation using Playwright and T
 ### 🔌 [API Test Automation — Java](https://github.com/mrsllil/framework-testy-auto)
 
 A learning project focused on API test automation using Java, REST Assured, Cucumber, and JUnit.
+
 
 ---
 
