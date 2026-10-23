@@ -1,28 +1,31 @@
+
 # Hi, I'm Klaudia! 👋
 
-### Senior QA Engineer | QA Analyst | Quality & Product Thinking
+### Senior QA Engineer | QA Analyst | Requirements, Systems & Risk-Based QA
 
 I'm a Software Quality Assurance professional with **7+ years of experience** in testing web applications, APIs, system integrations, and complex business workflows.
 
+My approach to QA starts with understanding **how a system is supposed to work, why it works that way, and what could go wrong**.
+
+Before designing test cases, I focus on understanding business requirements, workflows, user roles, system dependencies, and API behavior.
+
+I don't assume that documentation is always complete or consistent. I look for missing scenarios, unclear business rules, conflicting information, and potential risks. When something is unclear, I prefer to discuss it with developers, analysts, or architects rather than build tests around assumptions.
+
 I believe that **quality starts long before testing begins**.
-
-My approach goes beyond finding defects. I focus on understanding business needs, identifying risks early, challenging unclear requirements, and preventing problems before they reach implementation.
-
-I enjoy investigating complex system behavior, connecting technical details with the bigger business picture, and looking at software from both the user's and the product's perspective.
 
 ---
 
 ## 💼 Open to New Opportunities
 
-I'm currently looking for my next professional opportunity as a **Senior QA Engineer, QA Analyst**, or in a role combining Quality Assurance with business and systems analysis.
+I'm currently looking for opportunities as a **Senior QA Engineer, QA Analyst**, or in a role combining Quality Assurance with requirements and systems analysis.
 
-I'm particularly interested in projects where I can contribute through:
+I'm particularly interested in projects involving:
 
-- Early risk identification and proactive quality assurance
-- Requirements analysis and Shift-Left testing
-- API testing, system integrations, and data validation
-- Understanding complex business processes and system dependencies
-- Improving product quality and user experience
+- Complex business workflows and interconnected systems
+- Requirements analysis and early risk identification
+- API testing, integrations, and data validation
+- Risk-based testing and Shift-Left QA
+- Close collaboration with development, architecture, and product teams
 
 📍 **Based in Poland**  
 🌍 **Open to remote opportunities with Polish and international teams**  
@@ -32,41 +35,71 @@ I'm particularly interested in projects where I can contribute through:
 
 ## 🔎 My Strengths & Expertise
 
-### 🛡️ Risk Identification & Shift-Left QA
+### 📋 Requirements Analysis & Early Risk Identification
 
-One of my strongest areas is **identifying potential risks, inconsistencies, and gaps early in the software development lifecycle**.
+One of my strongest areas is identifying gaps, ambiguities, and inconsistencies before they turn into implementation or production issues.
 
-I proactively analyze requirements, challenge assumptions, and consider how changes may affect other modules, business processes, and end users.
-
-### 📋 Requirements & Systems Analysis
+I focus on:
 
 - Reviewing business and technical requirements
-- Identifying ambiguities, missing scenarios, and dependencies
-- Analyzing acceptance criteria and business rules
-- Evaluating the impact of changes across interconnected systems
-- Collaborating with developers, analysts, and product teams
+- Identifying missing business rules and acceptance criteria
+- Finding inconsistencies between requirements, API documentation, and actual system behavior
+- Challenging unclear assumptions and validating them with the team
+- Understanding the impact of changes on other modules and processes
+- Distinguishing between currently implemented behavior, planned functionality, and future enhancements
 
-### 🧪 Software Testing & Quality Assurance
+### 🔄 Workflow & Systems Analysis
 
-- Functional, exploratory, regression, and integration testing
-- Risk-based testing and test prioritization
-- Test planning, scenario design, and documentation
-- BDD/Gherkin and acceptance criteria
-- Defect investigation, reporting, and verification
+I prefer understanding the entire business process rather than testing isolated features without context.
+
+I pay particular attention to:
+
+- Business workflows and end-to-end processes
+- Object lifecycles and state transitions
+- User roles, permissions, and authorization rules
+- Conditions that trigger actions or status changes
+- Dependencies between system components
+- Edge cases, negative scenarios, and boundary conditions
+
+Understanding these relationships helps me design meaningful test coverage and identify risks that might otherwise be overlooked.
 
 ### 🔌 API, Integrations & Data Quality
 
+I work with APIs and integrations from both a functional and a business perspective.
+
+My experience includes:
+
 - REST API testing using Postman
+- Reviewing API contracts, request and response structures
+- Analyzing validation rules and error responses
+- Verifying data consistency across endpoints and systems
 - SQL and data validation
-- JSON and XML
-- Testing integration workflows and business processes
-- Analyzing application logs, errors, and unexpected system behavior
+- Working with JSON, XML, and application logs
+- Investigating unexpected behavior in integration workflows
+
+I care not only whether an API works, but also whether its behavior is consistent with business requirements and the rest of the system.
+
+### 🧪 Test Design & Quality Assurance
+
+I approach testing based on requirements, system understanding, and identified risks.
+
+- Functional, exploratory, regression, and integration testing
+- Risk-based test planning and prioritization
+- Test scenario and detailed test case design
+- BDD/Gherkin and acceptance criteria
+- Positive, negative, and boundary testing
+- Requirements traceability and test coverage analysis
+- Defect investigation, reporting, and verification
+
+Before investing time in extensive test documentation, I prefer to clarify uncertainties and confirm that the scenarios reflect actual system behavior and requirements.
 
 ### 💡 Product Quality & Usability
 
-I care about how software works as a whole, not just whether individual features meet their specifications.
+I also look at software from the user's perspective.
 
-I enjoy spotting usability issues, understanding their impact on real users, and suggesting practical improvements that make products more consistent, intuitive, and reliable.
+I enjoy identifying confusing workflows, inconsistent behavior, and usability problems, then considering their impact on users and business processes.
+
+My personal [QA & Product Observations](https://github.com/mrsllil/qa-product-observations) repository includes examples of issues and improvement opportunities I've noticed while using real applications.
 
 ---
 
@@ -86,14 +119,13 @@ Agile · Scrum · BDD/Gherkin · Shift-Left Testing · Risk-Based Testing · Req
 
 ---
 
-
 ## 📂 Featured Projects
 
 ### 🔎 [Real-World QA & Product Observations](https://github.com/mrsllil/qa-product-observations)
 
-My personal collection of QA observations based on everyday use of real applications.
+Independent QA observations based on everyday use of real applications.
 
-I document functional issues and usability improvements, focusing on real user scenarios, potential risks, and practical solutions.
+I document functional issues, usability improvements, and their potential impact on users, focusing on observed behavior rather than assumptions about the root cause.
 
 ### 🧪 [QA Documentation & Test Cases](https://github.com/mrsllil/Test-Cases)
 
@@ -106,19 +138,6 @@ A hands-on learning project exploring web test automation using Playwright and T
 ### 🔌 [API Test Automation — Java](https://github.com/mrsllil/framework-testy-auto)
 
 A learning project focused on API test automation using Java, REST Assured, Cucumber, and JUnit.
-
-
----
-
-## 🌱 Professional Interests
-
-I'm interested in further developing my skills in:
-
-- Advanced requirements and systems analysis
-- Software quality engineering and quality strategy
-- API and integration testing
-- Product-oriented QA and usability
-- Practical test automation and continuous improvement
 
 ---
 
@@ -139,5 +158,3 @@ I'm open to discussing new opportunities, interesting projects, and collaboratio
 💼 [LinkedIn](https://www.linkedin.com/in/klaudia-wiecko)  
 🎨 [Art & Portfolio](https://mrsllil.art/)  
 💻 [GitHub](https://github.com/mrsllil)
-
-**Let's build better software together! 🚀**
